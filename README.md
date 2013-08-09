@@ -1,4 +1,7 @@
 SkipList
 ========
 
-Im memory skip list implementation
+Im memory skip list implementation.
+
+Remove function does not work.
+
